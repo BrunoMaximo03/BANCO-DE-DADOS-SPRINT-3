@@ -1,0 +1,27 @@
+{
+    "cliente": [
+      {
+        "id": 1,
+        "nome": "Cliente 1",
+        "senha": "senha123"
+      },
+      {
+        "id": 2,
+        "nome": "Cliente 2",
+        "senha": "senha456"
+      }
+    ],
+    "admin": [
+      {
+        "id": 1,
+        "nome": "Admin 1",
+        "senha": "admin123"
+      },
+      {
+        "id": 2,
+        "nome": "Admin 2",
+        "senha": "admin456"
+      }
+    ]
+  }
+  
